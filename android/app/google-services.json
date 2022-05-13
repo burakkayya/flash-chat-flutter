@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868527369469",
+    "project_id": "flash-chat-4b750",
+    "storage_bucket": "flash-chat-4b750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868527369469:android:965858c7eecd634a526294",
+        "android_client_info": {
+          "package_name": "co.BurakKaya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868527369469-97repus8437tceqdf9kakbhp4ihidnki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6ruD--qC84d4KfVxRqh_EVhN96Z8CvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868527369469-97repus8437tceqdf9kakbhp4ihidnki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
